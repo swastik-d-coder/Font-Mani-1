@@ -1,0 +1,32 @@
+.heading{
+    font-size:23px ;
+    width: 100%;
+    margin: 0%;
+    box-shadow: 5px 5px 5px grey;
+    background-color: aquamarine;
+    font-family: Bodoni MT Black;
+}
+.note{
+    font-size:15px ;
+   color:black;
+}
+.copy_right_footer{
+   position:fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+   background-color:grey;
+   line-height: 3;
+   text-align: center;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 5px dotted rgb(122, 135, 255);
+    box-shadow: 5px 5px 5px grey;
+}
+
+#font-size{
+    font-family: d;
+    font-weight: bolder;
+}
